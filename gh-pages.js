@@ -7,7 +7,7 @@ ghpages.publish(
     repo: 'https://github.com/dhavalmaniar05/ToDo_svelte', // Update to point to your repository  
     user: {
       name: 'Dhaval Maniar', // update to use your name
-      email: 'Your Email address' // Update to use your email
+      email: 'dhavalmaniar05@gmail.com' // Update to use your email
     }
   },
   () => {
